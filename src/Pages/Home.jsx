@@ -18,7 +18,7 @@ export default function Home() {
                     <h1 className="text-warning text-5xl tracking-wider leading-snug font-bold">
                         BookShelf <br />
                         <span className="text-primary">
-                            Your persona library and social network for bookworms
+                            Your personal library and social network for bookworms
                         </span>
                     </h1>
                 </div>
